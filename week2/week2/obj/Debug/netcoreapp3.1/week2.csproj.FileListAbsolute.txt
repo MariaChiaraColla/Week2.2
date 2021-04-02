@@ -1,0 +1,13 @@
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.exe
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.deps.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.runtimeconfig.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.runtimeconfig.dev.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\bin\Debug\netcoreapp3.1\week2.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week2\week2\week2\obj\Debug\netcoreapp3.1\week2.genruntimeconfig.cache
